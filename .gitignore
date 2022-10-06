@@ -4,6 +4,10 @@ env
 dist
 data
 
+# IDS and Explanation table codes: 
+backend/pattern_mining_explanation_tables.ipynb
+backend/pattern_mining_ids.ipynb
+
 
 # local env files
 .env.local
